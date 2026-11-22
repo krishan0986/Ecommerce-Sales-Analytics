@@ -3,6 +3,11 @@
 
 🚀 **View the live interactive dashboard:**  
 https://ecommerce-sales-analytics-krishan.streamlit.app/
+
+## 📸 Dashboard Preview
+
+![E-Commerce Sales Analytics Dashboard](screenshots/dashboard.png)
+
 An end-to-end E-Commerce Sales Analytics project built using Python, Pandas, data visualization, and Streamlit.
 
 The project analyzes real-world online retail transaction data to uncover insights about revenue, customers, products, countries, and purchasing behavior.
